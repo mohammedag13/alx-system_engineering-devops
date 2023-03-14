@@ -1,3 +1,3 @@
 #!/bin/bash
-Hello, world
+hello world Script
 
